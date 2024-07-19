@@ -5,12 +5,14 @@
 
 
 Planning
+
 This blog application will be a  website where users can read, write, and comment on blog posts. Users can create accounts, log in, and manage their posts. An admin approves comments to ensure they are appropriate. The site provides a RESTful API for programmatic interactions.
 
 
 
 
 Defining
+
 This blog application is a website where people can read, write, and comment on articles or blog posts.
 Key Features:
 Reading Posts:
@@ -34,6 +36,8 @@ The application also provides an API (Application Programming Interface) which a
 
 
 Designing
+
+
 Front-end: HTML, CSS, JavaScript for the user interface.
 Back-end: Django views and templates.
 API: REST API to manage posts, comments, and users.
@@ -47,6 +51,7 @@ Create RESTful API endpoints using Django REST Framework.
 Implement front-end features using JavaScript and AJAX.
 
 Reference Website
+
 Blogging Platform using Django - GeeksforGeeks
 Building A Blog Application With Django (djangocentral.com)
 
